@@ -21,6 +21,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
       - [Simplenote](https://simplenote.com) – Lightweight and distraction-free note-taking app.
     - Task and Time Management
       - [Todoist](https://todoist.com) – Task management app with productivity features like recurring tasks.
+      - [Checkvist](https://checkvist.com) – Keyboard-driven list making
       - [Things 3](https://culturedcode.com/things/) – Minimalist to-do app for Apple users.
       - [TickTick](https://ticktick.com/) – Combines task management with time-blocking and habit tracking.
       - [Google Keep](https://keep.google.com/) – Quick and simple tool for capturing notes, tasks, and ideas.
